@@ -70,6 +70,8 @@
         </distributionManagement>	
 
 	<properties>
+		<sonar.organization>kassayetafesse</sonar.organization>
+                <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<main.basedir>${project.basedir}</main.basedir>
 		<maven.jacoco.version>0.8.5</maven.jacoco.version>
 		<javafx.version>2.2</javafx.version>
